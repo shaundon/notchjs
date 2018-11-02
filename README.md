@@ -1,5 +1,7 @@
 # NotchJS
 
+![NotchJS Logo](./assets/notch-logo.png)
+
 NotchJS is a JavaScript UI framework with a difference.
 
 ## Features
